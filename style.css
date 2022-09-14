@@ -1,7 +1,23 @@
 /*
 Color Palette:
-background color:  
-font color:        
-secondary color:   
-tertiary color:    
+background color:  #3A3845
+font color:  #F7CCAC
+secondary color:  #C6987B   
+tertiary color:  #826F66    
 */
+
+/* CSS syntax notes:
+        selector {property: valaue;}
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+
+
+
+body {
+    background-color: #3A3845;
+    color: #F7CCAC;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
